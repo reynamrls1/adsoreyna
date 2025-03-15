@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #e2d86e;
+    background-color: #e9a88c;
     padding: 20px;
     display: flex;
     justify-content: space-between;
@@ -16,18 +16,18 @@ header {
 .section1 {
     margin-top: 1%;
     text-align: center;
-    background-color: bisque;
+    background-color: rgb(189, 184, 178);
 }
 
 .logo {
-    font-size: 24px;
+    font-size: 25px;
     font-weight: bold;
 }
 
 nav ul {
     list-style: none;
     margin: 0;
-    padding: 0;
+    padding: 110;
     display: flex;
     align-items: center;
 }
@@ -48,7 +48,7 @@ nav li {
 
 .container {
     width: 100%;
-    background-color: #ecdfdf;
+    background-color: #dbc184;
     padding: 40px;
     display: flex;
     justify-content: space-around;
@@ -68,7 +68,7 @@ nav li {
 
 
 .text-container {
-    color: #000;
+    color: #000000;
 
 }
 
@@ -109,7 +109,7 @@ nav li {
 .icon {
     width: 150%; 
     height: 200px; 
-    background-color: #e2d86e;
+    background-color: #e0a36a;
     padding-bottom: 10%;
     padding: auto;
 }
@@ -128,7 +128,7 @@ nav li {
 
 .s{
     width: 100%;
-    background-color: #d1d1d1;
+    background-color: #c8a883;
     height: 200px;
     margin-bottom: 20px;
     padding-top: 50px;
@@ -137,7 +137,7 @@ nav li {
 
 .social {
     width: 90%;
-    background-color: #e9c1c1;
+    background-color: #d4d4d4;
     padding: 20px;
     border-radius: 5px;
     text-align: center;
@@ -152,7 +152,7 @@ nav li {
 .extras {
 
     width: 98%;
-    background-color: #e9c1c1;
+    background-color: #c8a883;
     padding: 20px;
     text-align: center;
     margin-bottom: 20px;
@@ -171,7 +171,7 @@ nav li {
 }
 
 .ultimo {
-    background-color: #e6afaf;
+    background-color: #e0a36a;
     width: 95%;
     padding-top: 3%;
     padding-left: 40px;
